@@ -1,0 +1,9 @@
+{{ partial "header.html" . }}
+{{ partial "sidebarleft.html" . }}
+<div class="col-6">
+    <h1>{{ .Title }}</h1>
+    <hr/>
+    {{ .Content }}
+</div>
+{{ partial "sidebarright.html" . }}
+{{ partial "header.html" . }}

@@ -1,0 +1,13 @@
+{{ partial "header.html" . }}
+{{ partial "sidebarleft.html" . }}
+<div class="col-6">
+    <h1>Posts</h1>
+    <hr class="text-warning"/>
+    <ul>
+        {{ range first 10 .Data.Pages }}
+        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+        {{ end }}
+    </ul>
+</div>
+{{ partial "sidebarright.html" . }}
+{{ partial "header.html" . }}
