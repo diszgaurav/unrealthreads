@@ -1,0 +1,9 @@
+---
+title: "What are you doing with your seed?"
+date: 2018-07-15T21:45:29+05:30
+Description: ""
+Tags: []
+Categories: []
+---
+
+Last week, there was a surprise visit from a religious group in my locality. They sang religious songs, chanted God's name(s) and most of the people joined. It was very harmonical. At last, we were discussing one of the "shlokas" from The Gita, which briefly meant, God comes from time to time to establish "dharma" on earth. Some believe it, some don't. Suppose this is true. Suppose the God will come after 1000years from now. What will you do till then? wait? We all have a soul which is a part of God or you can say God himself (actually, we don't have soul; we have a body). All the great people who have ever walked on this planet have manifested the power of their souls consciously and some unconsciously. These great people have shown us a way of realization of that omnipotent soul. They raised their awareness to a level where not only self realization happened but many others got benefited. It is like we all have been given a same seed. Those great people brought up a tree out of that seed and many got fed from the fruits grown out of it. Now, we all are waiting for someone to come, grow the tree again, so that we can bear the fruits. No doubt this will happen someday, souls of that kind have infinite power. But is it not our timidity? We have been shown the way to achieve that and we sit helplessly waiting for others to feed us. We are throwing away infinite latent power for mere transient pleasures. Realize it. You must have heard a famous quote from Swami Vivekananda, **Arise, awake and stop not till the goal is reached!** The Goal is this, knowing the true nature of self and seeing self in everyone. This is the true essence of any religion. This is religion!
