@@ -5,7 +5,10 @@
     <hr class="text-warning"/>
     <ul>
         {{ range first 10 .Data.Pages }}
-        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+        <li>
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+            <span class="text-right text-muted">{{ .Params.Categories }}  {{ dateFormat "Monday, Jan 2, 2006" .Date }}</span>
+        </li>
         {{ end }}
     </ul>
 </div>
