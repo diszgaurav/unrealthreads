@@ -2,8 +2,8 @@
 title: "I am"
 date: 2018-07-15T21:33:21+05:30
 Description: ""
-Tags: []
-Categories: []
+Tags: ["Who am I?"]
+Categories: ["Spirituality"]
 ---
 
 Now, you are looking for "I am"...what? Nothing! what's wrong with just I am?

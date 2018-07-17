@@ -2,8 +2,8 @@
 title: "Happy New 'just' Year?"
 date: 2018-07-15T21:41:08+05:30
 Description: ""
-Tags: []
-Categories: []
+Tags: ["Now"]
+Categories: ["Spirituality"]
 ---
 
 You would be joyful today, wouldn't you? Why not, it's about to be new year! You

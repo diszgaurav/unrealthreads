@@ -2,6 +2,7 @@
 {{ partial "sidebarleft.html" . }}
 <div class="col-md-6 mt-3 mb-3">
     <h1>{{ .Title }}</h1>
+    <p class="text-muted text-right">In {{ .Params.Categories }} On {{ dateFormat "Monday, Jan 2, 2006" .Page.Date }}</p>
     <hr/>
     {{ .Content }}
 </div>

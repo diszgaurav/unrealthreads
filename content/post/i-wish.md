@@ -2,8 +2,8 @@
 title: "I Wish"
 date: 2018-07-15T21:35:56+05:30
 Description: ""
-Tags: []
-Categories: []
+Tags: ["Poetry"]
+Categories: ["Spirituality"]
 ---
 
 ``` text

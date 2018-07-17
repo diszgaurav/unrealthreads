@@ -2,8 +2,8 @@
 title: "Teachings of My Father"
 date: 2018-07-15T21:56:28+05:30
 Description: ""
-Tags: []
-Categories: []
+Tags: ["Learning Resources"]
+Categories: ["Misc"]
 ---
 
 __Be Calm - A short story__

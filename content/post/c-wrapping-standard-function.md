@@ -2,8 +2,8 @@
 title: "Wrapping Standard Library Function in C"
 date: 2018-07-15T13:16:22+05:30
 Description: ""
-Tags: []
-Categories: []
+Tags: ["C"]
+Categories: ["Programming"]
 ---
 
 It is straightforward to put print messages in user defined functions (for debugging or for logging purposes) but what if you want to do something similar to standard library functions? It is not that difficult either. GNU Linker's(=ld=) =--wrap=symbol= option helps achieving this.
