@@ -1,5 +1,10 @@
 pre {
-  background-color: #333;
-  color: #eee;
   padding: 10px;
+  border: 1px dotted teal;
+}
+
+blockquote {
+  border-left: 2px solid teal;
+  padding: 10px;
+  background-color: beige;
 }

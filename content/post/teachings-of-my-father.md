@@ -14,7 +14,7 @@ _Moral_: Stay calm and analyze the situation first. Probably, your nervousness a
 
 __Thought Control__
 
->> When you think ill for someone, just think, you have already committed half of the crime.
+> When you think ill for someone, just think, you have already committed half of the crime.
 
 __Helping and Forgiving others__
 
