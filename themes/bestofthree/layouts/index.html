@@ -3,11 +3,12 @@
 <div class="col-md-6 mt-3">
     <h1>Posts</h1>
     <hr class="text-warning"/>
-    <ul>
-        {{ range first 10 .Data.Pages }}
+    <ul class="list-unstyled">
+        {{ range .Data.Pages }}
         <li>
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
-            <span class="text-right text-muted">{{ .Params.Categories }}  {{ dateFormat "Monday, Jan 2, 2006" .Date }}</span>
+            <span class="text-muted pull-right"><small>{{ dateFormat "Jan 02, 2006" .Date }}</small></span>
+            &nbsp
+            <span class="pull-left"><a href="{{ .Permalink }}">{{ .Title }}</a></span>
         </li>
         {{ end }}
     </ul>

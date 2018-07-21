@@ -7,4 +7,14 @@ blockquote {
   border-left: 2px solid teal;
   padding: 10px;
   background-color: beige;
+  margin: 18px 0;
+}
+
+table {
+  width: 100%;
+  margin: 16px 0;
+}
+
+table, th, td {
+  border: 1px solid #ddd;
 }
