@@ -6,7 +6,7 @@ Tags: ["Poetry"]
 Categories: ["Spirituality"]
 ---
 
-<pre class="bd-lead" style="border: none;">
+<pre class="poem">
 I wish I could go somewhere,
     But there is no destiny.
 I wish I could explain it,

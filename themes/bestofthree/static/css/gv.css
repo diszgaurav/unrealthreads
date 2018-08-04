@@ -1,13 +1,10 @@
-pre {
-  padding: 10px;
-  border: 1px dotted teal;
-}
-
 blockquote {
   border-left: 2px solid teal;
   padding: 10px;
   background-color: beige;
-  margin: 18px 0;
+  margin: 2.5rem 0;
+  font-style: italic;
+  font-size: 1.1rem;
 }
 
 table {
@@ -17,4 +14,24 @@ table {
 
 table, th, td {
   border: 1px solid #ddd;
+}
+
+* + h1 {
+  margin-top: 2.5rem;
+}
+* + h2 {
+  margin-top: 2.0rem;
+}
+
+.page-title {
+  padding-top: 1rem;
+  border-top: 5px solid #333;
+  border-bottom: 5px solid #333;
+}
+
+.poem {
+  padding: 10px;
+  margin: 2.5rem 0;
+  font-style: italic;
+  font-size: 1.2rem;
 }

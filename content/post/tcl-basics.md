@@ -28,7 +28,7 @@ Here -nonewline and channelId are optional and carry their default (channelId is
 
 # Printing to stdout
 
-```puts``` command prints to stdout by default:
+Command ```puts``` prints to stdout by default:
 
 ```tcl
 puts "Hello World!"
@@ -80,7 +80,7 @@ puts {foo = $foo}               ;# will output foo = $foo
 
 > Question: eval on puts {foo = $foo} will throw error. Do you know why?
 
-```expr``` program is used to perform arithmetic:
+The ```expr``` program is used to perform arithmetic:
 
 ```tcl
 set foo [expr {2.0**3 + 5/5 - 2*3}] ;# 3.0
@@ -131,13 +131,11 @@ print "with default indentation"    ;#    with default indentation
 print "with 8 spaces indentation" 8 ;#        with 8 spaces indentation
 ```
 
-#+BEGIN_QUOTE
-Only trailing parameters (yes, multiple) can be optional. Definition with an optional parameter and then a mandatory parameter, will not make first parameter optional.
-#+END_QUOTE
+> Only trailing parameters (yes, multiple) can be optional. Definition with an optional parameter and then a mandatory parameter, will not make first parameter optional.
 
 # Control flow
 
-Control flow is supported with =if-elseif-else=, ```switch```, ```for```, ```foreach```, ```while```, ```break``` and ```continue``` constructs.
+Control flow is supported with ```if-elseif-else```, ```switch```, ```for```, ```foreach```, ```while```, ```break``` and ```continue``` constructs.
 
 The expression inside {} for if, for and while statements is already evaluated by expr program, so no need to write it explicitly. Let's go through one example of each:
 
@@ -322,7 +320,7 @@ foreach {k v} [array get foo_arr] {
 
 # File handling
 
-```open``` and ```close``` commands are used to open and close files respectively. open returns a channel no.(file descriptor) to work with.
+The ```open``` and ```close``` commands are used to open and close files respectively. open returns a channel no.(file descriptor) to work with.
 
 Writing:
 
