@@ -22,6 +22,9 @@ table, th, td {
 * + h2 {
   margin-top: 2.0rem;
 }
+* + h3 {
+  margin-top: 1.8rem;
+}
 
 .page-title {
   padding-top: 1rem;
