@@ -102,9 +102,7 @@ Note that the process with PID (process id) 23320 is the shell itself! So, one w
 
 # The PATH Environment Variable
 
-When we run any command, an executable file (some program on disk) gets run actually. So, when we ran ```ps``` command, a file named ps got run. Where is the file located and how did the shell figure out its location?
-
-```which``` command tells the location of the file:
+When we run any command, an executable file (some program on disk) gets run actually. So, when we ran ```ps``` command, a file named ps got run. Where is the file located and how did the shell figure out its location? ```which``` command tells the location of the file:
 
 ```sh
 $ which ps                      # /bin/ps
@@ -195,7 +193,7 @@ $ ls -l /bin/ps
 -rwxr-xr-x 1 root root 127K Jul 13 16:50 /bin/ps
 ```
 
-```ls``` command lists information about files, when the file is directory, it shows its contents. Here, ```ls``` with ```-l(long listing)``` flag shows somewhat more information of the file. column 1 shows the permissions, column 3 shows the owner of the file and column 4 shows the group. So, here, owner is root, group is root and permissions are: 
+```ls``` command lists information about files, when the file is directory, it shows its contents. Here, ```ls``` with ```-l(long listing)``` flag shows somewhat more information of the file. column 1 shows the permissions, column 3 shows the owner of the file and column 4 shows the group. So, here, owner is root, group is root and permissions are:
 
 ```sh
 -rwxr-xr-x
